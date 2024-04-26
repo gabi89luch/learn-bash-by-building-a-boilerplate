@@ -115,3 +115,9 @@ cd node_modules
 ls --color=auto
 cd has
 cd ..
+cd../..
+cd ..
+cd ..
+cd freeCodeCamp
+cd node_modules
+cd ../..
