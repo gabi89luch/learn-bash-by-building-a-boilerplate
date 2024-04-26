@@ -149,3 +149,4 @@ ls --color=auto
 rm footer.jpg
 ls --color=auto
 touch roboto.font
+touch lato.font
