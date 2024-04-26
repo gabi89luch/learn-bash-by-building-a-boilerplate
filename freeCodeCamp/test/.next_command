@@ -59,3 +59,8 @@ ls --color=auto
 cd .
 cd ..
 ls --color=auto
+more packageßlock.json
+more package-lock.json
+more package-lock.json
+ls --color=auto
+more package.json
