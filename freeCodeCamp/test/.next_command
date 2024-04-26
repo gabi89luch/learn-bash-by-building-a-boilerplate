@@ -246,3 +246,7 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 cd website
 ls --color=auto
+find
+mv header.png client/assets/images
+find images
+find -name images
