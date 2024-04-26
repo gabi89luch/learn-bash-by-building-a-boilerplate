@@ -287,3 +287,4 @@ find
 rmdir fonts
 rm --help
 rm -r fonts
+ls --color=auto
