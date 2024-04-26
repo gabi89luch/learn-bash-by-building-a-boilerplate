@@ -140,3 +140,4 @@ command --help ls
 list --help
 ls --color=auto --help
 ls --color=auto -a
+cd .
