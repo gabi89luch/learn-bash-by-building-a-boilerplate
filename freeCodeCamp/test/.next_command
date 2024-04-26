@@ -204,3 +204,4 @@ pwd website
 find website
 find
 cd client
+mkdir assets
