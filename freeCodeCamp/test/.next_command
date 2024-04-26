@@ -72,3 +72,5 @@ ls --color=auto -l
 cd has-
 cd has
 ls --color=auto
+cat README.md
+more README.md
